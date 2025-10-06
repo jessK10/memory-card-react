@@ -1,43 +1,43 @@
 [
 	{
 		"id": 1,
-		"name": "Capitain America",
-		"image": "capitain.jpg",
+		"name": "yashvi",
+		"image": "yashvi.png",
 		"flipped": false,
 		"matched": false
 	},
 	{
 		"id": 2,
-		"name": "Deadpool",
-		"image": "deadpool.jpg",
+		"name": "jay",
+		"image": "jay.png",
 		"flipped": false,
 		"matched": false
 	},
 	{
 		"id": 3,
-		"name": "Iron Man",
-		"image": "ironman.jpg",
+		"name": "jesica",
+		"image": "jesica.png",
 		"flipped": false,
 		"matched": false
 	},
 	{
 		"id": 4,
-		"name": "Spiderman",
-		"image": "spider.jpg",
+		"name": "eman",
+		"image": "eman.png",
 		"flipped": false,
 		"matched": false
 	},
 	{
 		"id": 5,
-		"name": "Superman",
-		"image": "superman.jpg",
+		"name": "divya",
+		"image": "divya.png",
 		"flipped": false,
 		"matched": false
 	},
 	{
 		"id": 6,
-		"name": "Wolverine",
-		"image": "wolverine.jpg",
+		"name": "noman",
+		"image": "noman.png",
 		"flipped": false,
 		"matched": false
 	}
